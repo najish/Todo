@@ -1,0 +1,22 @@
+1. Javascript
+2. Csharp
+3. AspnetCore MVC
+4. AspnetCore WebApi
+5. HTML/CSS
+6. CP Programming
+7. Computer Network
+8. Operating System
+9. DBMS
+10. ReactJS
+11. Full Stack Developer
+12. Microsoft Azure Certification
+13. GIT & GITHUB
+14. JQuery
+15. DataStructure
+16. Algorithm
+============================ 
+PROJECTS
+* Library Management
+* LearnCS VideoTutorial
+* Celebrity Feed & videos
+==========================
