@@ -14,9 +14,18 @@
 14. JQuery
 15. DataStructure
 16. Algorithm
+17. Physics
+18. Chemistry
+19. Math
+20. Scripting Language(Shell,Cmd)
+21. WebSocket
 ============================ 
 PROJECTS
 * Library Management
 * LearnCS VideoTutorial
 * Celebrity Feed & videos
 ==========================
+
+
+
+Learn scripting language
